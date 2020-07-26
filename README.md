@@ -144,9 +144,6 @@ github: https://github.com/Boris-code/news-spider
 
 本文讲解了面对海量新闻，庞杂的页面模板，如何通用的进行抓取，代码样例采用**boris-spider**爬虫框架，为大家演示了个小demo，若想全站抓取，可以二次开发下，引入抓取深度的概念。当然，**boris-spider**框架也是支持的
 
-## 下期分享预告
-
-python面试常遇到的一些问题及分布式爬虫设计思路
 
 ## 了解更多
 
